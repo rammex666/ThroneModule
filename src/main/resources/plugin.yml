@@ -1,0 +1,6 @@
+name: ThroneModule
+version: '${project.version}'
+main: org.rammex.thronemodule.ThroneModule
+commands:
+  throne:
+    description: Throne command
